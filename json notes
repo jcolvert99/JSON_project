@@ -1,0 +1,4 @@
+LIST COMPREHENSION
+
+mylist = [transformation/expression, iteration, condition]
+    iteration is the only argument that's required
